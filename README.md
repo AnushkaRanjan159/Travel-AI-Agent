@@ -16,7 +16,7 @@ An AI-powered assistant to plan trips intelligently using IBM Cloud, watsonx.ai,
 - Granite-3-3-8b-instruct model
 - llama-3-2-11b-vision-instruct
 - llama-3-3-70b-instruct
-- 
+  
 ## How to Use
 1. Deploy agent on IBM Cloud
 2. Provide user preferences (budget, time, type of travel)
